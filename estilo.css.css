@@ -1,0 +1,29 @@
+body {
+  margin: auto;
+  border: solid 5px rgb(231, 209, 246);
+  align-items: center;
+}
+
+div {
+  border-style: double;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  align-items: center;
+}
+
+section, menu {
+  align-items: center;
+  color: rgb(254, 0, 85);
+}
+
+img {
+  align-items: flex-end;
+}
+
+dt {
+  align-items: center;
+}
